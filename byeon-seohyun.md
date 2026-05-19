@@ -14,7 +14,7 @@ Namely, Jackson sings about change and how it seems the time to get rid of old w
 
 The movie also portrays how unstable Jackson is through the distortion of music and sound. During the scenes in the latter part of the movie where Jackson’s addiction and depression gets worse, sometimes the audience can only hear certain instruments and certain sounds are intentionally prolonged. These scenes convey Jackson’s painful and unstable state through music. Another part of the movie that is worth noting is Jackson’s tinnitus. The audience can hear and experience Jackson’s tinnitus throughout the whole movie. At the very start of the movie, Jackson leaves the loud concert and gets into a quiet car. A few moments later, a high-pitched sound continues for a while. This sound can be heard in multiple scenes as well as the movie goes on. The fact that these sounds are heard as other sounds are faded out shows how Jackson’s isolation from the world and the relationships around him can be worsen by his sensory disability.
 
-[Inside Llewyn Davis](choi-dahyeon.md) can be referred to as another movie portraying the depression of a singer-songwriter through music.
+[*Inside Llewyn Davis*](choi-dahyeon.md) can be referred to as another movie portraying the depression of a singer-songwriter through music.
 
 
 # 스타 이즈 본
@@ -25,4 +25,4 @@ The movie also portrays how unstable Jackson is through the distortion of music 
 
 영화는 음악과 소리의 왜곡으로 잭슨의 불안정함을 표현하기도 한다. 잭슨의 우울과 중독이 심해지는 영화의 후반부에서는 공연 중 특정 악기의 소리만 크게 들리거나 소리가 늘어지게 들리기도 한다. 이러한 표현은 고통받고 불안정한 잭슨의 상태를 음악을 통해 관객에게 전달하고 있다. 또 주목할 만한 부분은 잭슨의 이명이다. 영화의 초반부터 관객은 잭슨의 이명을 함께 경험하며 이해할 수 있다. 영화 초반 잭슨의 콘서트가 끝난 후, 잭슨은 소란스러운 콘서트장에서 나와 고요한 차 안으로 이동한다. 얼마 후 그 고요함 속에서 높은 음역대의 “삐” 소리가 한동안 지속된다. 이후 다른 장면에서도 이러한 소리는 종종 등장한다. 주위의 다른 소리는 사라지고 들려오는 이명은 감각적인 장애로 인해 잭슨이 다른 사람들과의 관계와 세상으로부터 느끼는 고립이 심화될 수 있음을 보여준다.
 
-가수의 우울증, 고통을 음악을 통해 표현한 다른 작품으로는 [인사이드 르윈 데이비스](choi-dahyeon.md)를 참고할 수 있다.
+가수의 우울증, 고통을 음악을 통해 표현한 다른 작품으로는 [\<인사이드 르윈 데이비스\>](choi-dahyeon.md)를 참고할 수 있다.
