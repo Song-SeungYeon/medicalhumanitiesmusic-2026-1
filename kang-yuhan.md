@@ -16,5 +16,5 @@ The plot of *Miracle in Cell No. 7* begins when Yong-gu, a father with an intell
 
 <img src="./ alt="description" style="width:30%;"/>
 
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/83c4b622-9be9-4f77-8bb3-15ab75c593da" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/83c4b622-9be9-4f77-8bb3-15ab75c593da" />
 
